@@ -1,0 +1,23 @@
+body {
+  background:lightgray;
+  height: 100vh;
+}
+
+.top {
+  background: darkgray;
+  height: 10vh;
+  width: 100vw;
+}
+.middle {
+  background: white;
+  height: 47em;
+  width: 60vw;
+  margin-left: 24em;
+}
+.bottom {
+  background: black;
+  width: 60vw;
+  height: 10vh;
+  margin-top: 0em;
+  margin-left: 24em;
+}
